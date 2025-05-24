@@ -38,9 +38,15 @@ I'm actively seeking freelance opportunities to apply and improve my skills, whi
 </p>
 
 ### 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=usernamenuh&theme=dark&hide_border=false)</br>
-![Usernamenuh GitHub stats](https://github-readme-stats.vercel.app/api?username=usernamenuh&show_icons=true&theme=radical)</br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=usernamenuh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=Usernamenuh&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Usernamenuh&theme=rose_pine&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Usernamenuh&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Usernamenuh&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=usernamenuh&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -53,8 +59,14 @@ If you like what I do and want to support me, feel free to buy me a coffee!
 
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/muhammadena) 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/usernamenuh/usernamenuh/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/usernamenuh/usernamenuh/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/usernamenuh/usernamenuh/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/Usernamenuh/Usernamenuh/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/Usernamenuh">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Usernamenuh&count=1&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
