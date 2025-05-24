@@ -38,7 +38,7 @@ I'm actively seeking freelance opportunities to apply and improve my skills, whi
 </p>
 
 ### 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=usernamenuh&theme=dark&hide_border=false)</br>
+![Usernamenuh GitHub stats](https://github-readme-stats.vercel.app/api?username=usernamenuh&show_icons=true&theme=radical)</br>
 ![](https://github-readme-stats.vercel.app/api?username=usernamenuh&theme=dark&hide_border=false&include_all_commits=true&count_private=false)</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=usernamenuh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
@@ -58,19 +58,3 @@ If you like what I do and want to support me, feel free to buy me a coffee!
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/usernamenuh/usernamenuh/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/usernamenuh/usernamenuh/output/pacman-contribution-graph.svg">
 </picture>
-
-
-<!--
-**usernamenuh/usernamenuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
