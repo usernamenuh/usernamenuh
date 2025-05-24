@@ -60,13 +60,3 @@ If you like what I do and want to support me, feel free to buy me a coffee!
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/muhammadena) 
 
 <img src="https://raw.githubusercontent.com/Usernamenuh/Usernamenuh/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Usernamenuh">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Usernamenuh&count=1&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
