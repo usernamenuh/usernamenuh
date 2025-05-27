@@ -39,7 +39,6 @@ I'm actively seeking freelance opportunities to apply and improve my skills, whi
 
 ### 📊 GitHub Stats:
 
-# 📊 GitHub Stats:
 ![Usernamenuh](https://github-readme-stats.vercel.app/api?username=Usernamenuh&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![Usernamenuh](https://nirzak-streak-stats.vercel.app/?user=Usernamenuh&theme=ambient_gradient&hide_border=false)<br/>
 ![Usernamenuh](https://github-readme-stats.vercel.app/api/top-langs/?username=Usernamenuh&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
