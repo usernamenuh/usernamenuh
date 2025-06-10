@@ -55,10 +55,7 @@ I'm actively seeking freelance opportunities to apply and improve my skills, whi
 
 [![](https://visitcount.itsvg.in/api?id=Usernamenuh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=usernamenuh&limit=5&theme=dark&combine_all_yearly_contributions=true)
