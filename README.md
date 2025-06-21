@@ -46,7 +46,6 @@ I'm actively seeking freelance opportunities to apply and improve my skills, whi
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=usernamenuh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
 ### ☕ Support My Work
 
 If you like what I do and want to support me, feel free to buy me a coffee!
