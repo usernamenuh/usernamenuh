@@ -9,10 +9,22 @@
 </p>
 
 
-### 🧑‍💻 About Me
+### 👨‍💻 About Me
 
-I'm a student with a strong passion for web development, continuously learning and building real-world projects.  
-I'm actively seeking freelance opportunities to apply and improve my skills, while also working toward creating a solid and professional portfolio.
+Hi, I'm Muhammad Enuh.
+
+I'm a Full-Stack Web Developer from Indonesia who enjoys building modern web applications with Laravel, React, Express.js, and Node.js.
+
+Besides web development, I also explore Artificial Intelligence and Machine Learning using Python, TensorFlow, and PyTorch.
+
+Currently, I'm focused on building real-world projects, contributing to open source, and continuously improving my software engineering skills.
+
+### 📈 GitHub Activity
+
+- 🔭 Currently building Full-Stack Web Applications
+- 🌱 Learning Software Architecture & AI Engineering
+- 💬 Ask me about Laravel, React, Express.js, REST API
+- ⚡ Fun fact: I love turning ideas into real applications.
 
 
 <p align="center">
@@ -36,10 +48,21 @@ I'm actively seeking freelance opportunities to apply and improve my skills, whi
   <a href="https://www.youtube.com/@nuh11"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 </p>
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=usernamenuh&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=usernamenuh&theme=aura_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=usernamenuh&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=usernamenuh&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usernamenuh&layout=compact&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=usernamenuh&theme=tokyonight"/>
+
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=usernamenuh&icon=0&color=0)](https://visitcount.itsvg.in)
