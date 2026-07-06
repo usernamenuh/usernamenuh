@@ -47,8 +47,6 @@ Currently, I'm focused on building real-world projects, contributing to open sou
 ---
 [![](https://visitcount.itsvg.in/api?id=usernamenuh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=usernamenuh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### ☕ Support My Work
 
