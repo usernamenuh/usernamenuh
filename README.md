@@ -43,15 +43,6 @@ Currently, I'm focused on building real-world projects, contributing to open sou
   <a href="https://www.youtube.com/@nuh11"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 </p>
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=usernamenuh&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usernamenuh&layout=compact&theme=tokyonight"/>
-
-</div>
 
 <div align="center">
 
